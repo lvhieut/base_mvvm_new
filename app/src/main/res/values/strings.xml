@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MVVM_prac_0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="number_of_medal_label">4 huy chương\n</string>
+    <string name="number_of_gold_label">huy chương vàng\n</string>
+    <string name="number_of_silver_label">huy chương bạc\n</string>
+    <string name="number_of_bronze_label">huy chương đồng</string>
+    <string name="gold_label">vàng</string>
+    <string name="minus_button_label">bạc</string>
+    <string name="plus_button_label">đồng</string>
+    <string name="silver_label">bạc</string>
+    <string name="bronze_label">đồng</string>
+</resources>
